@@ -29,7 +29,6 @@ function RatingSelector (props) {
   }
 
   const handleChange = event => {
-    
     const newValue = parseInt(event.target.value, 10)
 
     if (newValue > 100 || newValue < 0) {
