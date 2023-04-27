@@ -1,0 +1,31 @@
+.toggle-button {
+    background-color: #fff;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 70%;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  
+  .toggle-button.active {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+  }
+
+  .private, .shared {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .private.active, .shared.active {
+    background-color: #FF5A5F; /* replace with desired color */
+    transition: background-color 0.2s ease-in-out; /* adjust the duration and timing function as needed */
+  }

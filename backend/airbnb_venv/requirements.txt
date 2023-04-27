@@ -1,0 +1,6 @@
+catboost
+numpy
+fastapi
+pydantic
+uvicorn
+typing 
