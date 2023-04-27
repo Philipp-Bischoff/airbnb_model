@@ -4,3 +4,7 @@ my tool provides personalized pricing suggestions based on a variety of factors,
 
 I built the dashboard with an easy-to-use map visualization feature that allows users to easily explore and view listings.
 By connecting the dashboard with an API to my machine learning model, users can quickly access valuable insights to help them make data-driven pricing decisions.
+
+
+https://user-images.githubusercontent.com/47418990/234833994-ddc31713-9a5d-47b7-af29-65c0b4c389e9.mp4
+
