@@ -1,4 +1,4 @@
-#AirBnB Listing Price Prediction
+# AirBnB Listing Price Prediction
 
 This project was part of my ongoing process to learn more technologies, and I wanted to combine a data anaylsis/machine learning project with a backend, api and frontend. 
 
