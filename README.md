@@ -1,3 +1,7 @@
+#AirBnB Listing Price Prediction
+
+This project was part of my ongoing process to learn more technologies, and I wanted to combine a data anaylsis/machine learning project with a backend, api and frontend. 
+
 As part of my personal portfolio project, I developed an App to help hosts and property managers or private people considering hosting their
 apartment on airbnb,accurately predict the nightly rate for new Airbnb listings.With a machine learning model trained on 50,000 Airbnb listings,
 my tool provides personalized pricing suggestions based on a variety of factors, including location, size as well as distances to city centers and metros.
