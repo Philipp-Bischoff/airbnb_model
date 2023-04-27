@@ -47,7 +47,8 @@ function App () {
     transitionInterpolator: new FlyToInterpolator()
   })
 
-  const [defaultCoordinates, setDefaultCoordinates] = useState([4.9, 52.36])
+  //const [defaultCoordinates, setDefaultCoordinates] = useState([4.9, 52.36])
+  const defaultCoordinates = [4.9, 52.36]
   const [prediction, setPrediction] = useState(null)
   const [cityCenter, setCityCenter] = useState([4.895168, 52.370216])
   const [controller, setController] = useState(true)
